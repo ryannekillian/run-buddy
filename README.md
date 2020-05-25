@@ -12,3 +12,6 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Ryanne Killian]
+
+
+### ©️2019 Run Buddy, Inc 
